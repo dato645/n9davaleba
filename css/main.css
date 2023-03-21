@@ -1,3 +1,4 @@
+@media only screen and (min-width: 992px){
 body{
     background-color: #f5f5f5;
 }
@@ -87,7 +88,8 @@ nav div{
 }
 .bosdiv{
     display: flex;
-    margin-left: 300px;
+    margin-left: 263px;
+    margin-right: 135px;
     gap: 55px;
 }
 .maindiv p{
@@ -147,7 +149,7 @@ article{
     border-radius: 20px;
     position: absolute;
     top: 2765px;
-   left: 882px;
+   left: 855px;
 }
 .article2 h1{
     color: #DCB47A;
@@ -166,7 +168,6 @@ footer{
      width: 1462px;
      margin-top: 245px;
 }
-
 footer h1{
     height: 96px;
     width: 829px;
@@ -205,4 +206,7 @@ footer h1{
     width: 205px;
     height: 64px;
     border-radius: 60px;
+}
+}
+@media screen and (min-width: 768px) {
 }
